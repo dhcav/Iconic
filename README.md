@@ -6,6 +6,7 @@ Created by Damian Cavanagh in May 2024
 - You can download this Shortcut [here](https://github.com/dhcav/iconic/raw/refs/heads/main/iconic.shortcut)
 - It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
 
+## Description
 This Shortcut is designed for use with my iconicForJamfPro workflow by retrieving the iconicForJamfPro ‘script’, which is a JSON dictionary that stores icon attributes (name, Jamf Pro ID, URL, and base64-encoded thumbnail image) for easier re-use. 
 
 The main benefit of this approach is that it enables programmatic retrieval of the icon’s URL/Jamf Pro ID for re-use after initial upload, e.g. for Jamf Setup Manager, 
