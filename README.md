@@ -9,7 +9,7 @@ The main benefit of this approach is that it enables programmatic retrieval of t
 Existing icon attributes are used to populate a visual menu from which to choose the desired icon, then select an attribute to copy to clipboard. 
 
 Third party app requirements:
-- For Mac, you need Jamf Actions, signed in with an account or API Client
+- For Mac, you need Jamf Actions, signed in with an account or API Client - https://github.com/Jamf-Concepts/actions
 - For mobile devices, you need PocketMDM, signed in with an account or API Client - https://apps.apple.com/au/app/pocketmdm/id6751423971
 
 Jamf Pro privilege requirements:
