@@ -10,7 +10,7 @@ Existing icon attributes are used to populate a visual menu from which to choose
 
 Third party app requirements:
 - For Mac, you need Jamf Actions, signed in with an account or API Client
-- For mobile devices, you need PocketMDM, signed in with an account or API Client
+- For mobile devices, you need PocketMDM, signed in with an account or API Client - https://apps.apple.com/au/app/pocketmdm/id6751423971
 
 Jamf Pro privilege requirements:
 - Read Scripts
