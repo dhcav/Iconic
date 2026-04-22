@@ -17,7 +17,7 @@ Third party app requirements:
 - For Mac, you need Jamf Actions, signed in with an account or API Client - https://github.com/Jamf-Concepts/actions
 - For mobile devices, you need PocketMDM, signed in with an account or API Client - https://apps.apple.com/au/app/pocketmdm/id6751423971
 
-Jamf Pro privilege requirements:
+Jamf Pro User Account/API Client Privileges required:
 - Read Scripts
 - Update Scripts
 - Create Scripts
